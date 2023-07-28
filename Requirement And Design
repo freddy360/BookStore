@@ -1,0 +1,128 @@
+
+
+
+Delta Sigma Phi
+Bryant Orme
+2/1/2023
+
+Project Name: Delta Sig at UNCC Fraternity Page
+
+Project Overview:
+	This website will be designed to represent the Eta Rho chapter of the Delta Sigma Phi fraternity here at UNCC. The intended users of this website will be anyone attending UNCC, and anyone interested in joining or learning more about the fraternity. The website will have a homepage will have general information about the fraternity, cycling images, a brief introduction to some of the members in leadership positions and information about how to join.
+Client Information:
+⦁	Nick Schreibeis
+⦁	President of Eta Rho chapter of Delta Sigma Phi
+⦁	nschreib@uncc.edu
+Site Map:
+Before you start coding, you need to understand what pages you will need to create and how you will navigate between them. Below is an example of a site map. Please produce a site map for your application: (you can use https://www.gloomaps.com/or something similar).
+ 
+
+
+Page Design: Home page
+⦁	The name of the page: 
+⦁	Homepage/Eta Rho chapter of the Delta Sigma Phi Fraternity
+⦁	Purpose of the page: 
+⦁	To draw the user’s attention to the purpose of the organization and to provide an easy way for people to learn more about the fraternity.
+⦁	Audience/Users of page (customer, admin, etc.):
+⦁	Students and potential aspiring members
+⦁	What will be content of the page? 
+⦁	A description of what the brotherhood stands for.
+⦁	Cycling gallery of the brothers doing activities.
+⦁	Information with headshots of the president, vice-president and Sargent at Arms.
+⦁	A sign-up page for aspiring new members.
+⦁	Links to the other webpages included in the footers and header.
+⦁	Is this a page where you are asking users to enter data on the page?
+⦁	No.
+⦁	Will those data fields need any validations (if any)? 
+⦁	No.
+⦁	Will the page contain buttons or hyperlinks or drop downs?
+⦁	The page will feature buttons that link to sign-up forms.
+⦁	There will be buttons in the header used for site navigation as well as hyperlinks contained in the footer that direct user to the social media pages, sign-up for a mailing list and UNCC Greek life information page.
+⦁	What actions will happen in the page? (such as, when user clicks on a button - data saved, navigate to other page, search based on value, etc.?)
+⦁	The user can click a button that will navigate them to sign-up forms.
+⦁	The user can click on various hyperlinks in the header to be directed to pages such as events, board, gallery, and get to know us page.
+⦁	The user can click on various hyperlinks in the footer to be directed to the brotherhood’s social media, mailing list, nationals and other pages.
+
+
+Page Design: Events
+⦁	The name of the page: 
+⦁	Events
+⦁	Purpose of the page: 
+⦁	Provide the user with an easy-to-read calendar of upcoming events.
+⦁	Audience/Users of page (customer, admin, etc.):
+⦁	Students, brothers, and people who are interested in coming to events.
+⦁	What will be content of the page? 
+⦁	A calendar, header and footer for site navigation.
+⦁	Is this a page where you are asking users to enter data on the page?
+⦁	No.
+⦁	Will those data fields need any validations (if any)? 
+⦁	No.
+⦁	Will the page contain buttons or hyperlinks or drop downs?
+⦁	There will be buttons in the header used for site navigation as well as hyperlinks contained in the footer that direct user to the social media pages, sign-up for a mailing list and UNCC Greek life information page.
+⦁	What actions will happen in the page? (such as, when user clicks on a button - data saved, navigate to other page, search based on value, etc.?)
+⦁	The calendar will change months if the user wants to look ahead.
+⦁	Users will be directed to corresponding webpages if buttons or links are click in the header or footer.
+
+Page Design: Board
+⦁	The name of the page: 
+⦁	Board
+⦁	Purpose of the page: 
+⦁	Providing information on the brothers in executive positions as well as some chairman positions.
+⦁	Audience/Users of page (customer, admin, etc.):
+⦁	Students, general public and potential aspiring members
+⦁	What will be content of the page? 
+⦁	This webpage will display pictures of brothers with their position titles, when clicking on the images users will be presented with a popup displaying a short bio of the brother.
+⦁	Is this a page where you are asking users to enter data on the page?
+⦁	No.
+⦁	Will those data fields need any validations (if any)? 
+⦁	No.
+⦁	Will the page contain buttons or hyperlinks or drop downs?
+⦁	This page will have clickable images or when hovered over will enlarge.
+⦁	There will be buttons in the header used for site navigation as well as hyperlinks contained in the footer that direct user to the social media pages, sign-up for a mailing list and UNCC Greek life information page.
+⦁	What actions will happen in the page? (such as, when user clicks on a button - data saved, navigate to other page, search based on value, etc.?)
+⦁	When users click on images more information will be displayed about the brother in the image. Clicking outside the frame of the popup will make it go away.
+
+Page Design: Gallery
+⦁	The name of the page: 
+⦁	Gallery
+⦁	Purpose of the page: 
+⦁	To display past events/activities the fraternity has done.
+⦁	Audience/Users of page (customer, admin, etc.):
+⦁	Students, general public and potential aspiring members
+⦁	What will be content of the page? 
+⦁	A bunch of pictures laid out in a grid like format of brotherhood events or activities.
+⦁	Is this a page where you are asking users to enter data on the page?
+⦁	No.
+⦁	Will those data fields need any validations (if any)? 
+⦁	No.
+⦁	Will the page contain buttons or hyperlinks or drop downs?
+⦁	There will be buttons in the header used for site navigation as well as hyperlinks contained in the footer that direct user to the social media pages, sign-up for a mailing list and UNCC Greek life information page.
+⦁	What actions will happen in the page? (such as, when user clicks on a button - data saved, navigate to other page, search based on value, etc.?)
+⦁	If the user hovers over an image for a couple secs an enlarged version of the picture will show up, once the user moves their mouse outside the image frame the image will minimize.
+
+Page Design: Get to Know Us
+⦁	The name of the page: 
+⦁	Contact Us
+⦁	Purpose of the page: 
+⦁	To provide users with ways of reaching out, access to social media pages and a sign spot for potential new members or an email list of events going on with the brotherhood.
+⦁	Audience/Users of page (customer, admin, etc.):
+⦁	Students, general public and potential aspiring members 
+⦁	What will be content of the page? 
+⦁	The brotherhoods social media images
+⦁	Information from nationals about what the fraternity’s values are.
+⦁	A button that links to a sign-up page for aspiring members/email list.
+⦁	Is this a page where you are asking users to enter data on the page?
+⦁	No.
+⦁	Will those data fields need any validations (if any)? 
+⦁	No.
+⦁	Will the page contain buttons or hyperlinks or drop downs?
+⦁	Buttons for mailing list sign-up forum.
+⦁	Clickable images that link to brotherhood social media pages.
+⦁	There will be buttons in the header used for site navigation as well as hyperlinks contained in the footer that direct user to the social media pages, sign-up for a mailing list and UNCC Greek life information page.
+⦁	What actions will happen in the page? (such as, when user clicks on a button - data saved, navigate to other page, search based on value, etc.?)
+⦁	The user can click the images of social media icons and be directed to the respective social media pages.
+⦁	The user can click a button that will direct them to a mailing list sign-up forum.
+
+
+Dynamic Functionality on the Website:
+	The homepage will have a photos slide show, this is just so that users will always have a new image of brothers doing activities to look at, the user will be able to skip through the slide show (https://store.steampowered.com/app/377160/Fallout_4/). Also on the homepage hover over the headshot image of the executive member will enlarge the photo additional it will provide additional information on the member (https://csa.berkeley.edu/officers/). On the board member page there will be clickable images that take the user to the brother’s bio page (https://housing.charlotte.edu/). The gallery page will just have images on it mostly, clicking on the images will enlarge them, and the user can click through from the enlarged view. The events page will have an interactable calendar, allowing users to add events to their own calendar. Get to know us page will have a form for users to signup to a mailing list, the form will check for valid email addresses (https://email-checker.net/validate).
