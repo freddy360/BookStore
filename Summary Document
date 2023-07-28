@@ -1,0 +1,8 @@
+Specifications:
+Plugins: EVO-Calendar, Animate.css and jquery min js, which is used on all webpages.
+Widget: I used the tabs widget, so that users can click through and see each of the board members. 
+Additional addons: Added fading animations to all images using Animate.css, text color items in the navbar changes when hovered with transforming. On the board page, selecting between the different positions brings up images and a bio of the current member filling that board position. On this page it pulls the info from a JSON file on the server, additionally the gallery page pulls the image info from a JSON file on the server.
+Meets requirements:
+I think the website meets what the client wants, it provides clear and easily digestible information about the fraternity as well as showing what the fraternity is about. I think that it could look better if I had more experience using CSS. Future plans for the website would be to make it have more interactivity with the user so they could get to know the organization better.
+Lessons: 
+This project has taught me that you can get more done in a month working on something consistently than you can working on something nonstop for a week straight. It also taught me how to utilize online resources/problem solving issues I could never even think of. I also learned how to code in HTML, CSS and JavaScript. While I had some experience in all of these languages I now have a fairly well versed understanding of each of these languages in relation to web development and design.
