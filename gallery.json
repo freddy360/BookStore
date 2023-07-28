@@ -1,0 +1,26 @@
+{
+    "photos" : [
+        {"src" : "images/gallery1.jpg"},
+        {"src" : "images/gallery2.jpg"},
+        {"src" : "images/gallery3.jpg"},
+        {"src" : "images/gallery4.jpg"},
+        {"src" : "images/gallery5.jpg"},
+        {"src" : "images/gallery6.jpg"},
+        {"src" : "images/gallery7.jpeg"},
+        {"src" : "images/gallery8.PNG"},
+        {"src" : "images/gallery9.jpeg"},
+        {"src" : "images/gallery10.jpg"},
+        {"src" : "images/gallery11.PNG"},
+        {"src" : "images/gallery12.jpeg"},
+        {"src" : "images/gallery13.jpg"},
+        {"src" : "images/gallery14.PNG"},
+        {"src" : "images/gallery15.JPG"},
+        {"src" : "images/gallery16.PNG"},
+        {"src" : "images/gallery17.JPG"},
+        {"src" : "images/gallery18.PNG"},
+        {"src" : "images/gallery19.JPG"},
+        {"src" : "images/gallery20.PNG"},
+        {"src" : "images/gallery21.JPG"},
+        {"src" : "images/gallery22.JPG"}
+    ]
+}

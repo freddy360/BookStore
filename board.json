@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "name": "Nick Schreibeis",
+      "bio": "President Bio",
+      "image": "images/President.JPG"
+    },
+    {
+      "name": "Cam Mcewen",
+      "bio": "Vice-President Bio",
+      "image": "images/VP.JPG"
+    },
+    {
+      "name": "Tanner Fournier",
+      "bio": "Treasurer Bio",
+      "image": "images/Treasurer.JPG"
+    },
+    {
+      "name": "Zach Little",
+      "bio": "Vice-President of Membership Experience Bio",
+      "image": "images/VPMD.JPG"
+    },
+    {
+      "name": "Lance Bumgarner",
+      "bio": "New Member Educator Bio",
+      "image": "images/NME.JPG"
+    },
+    {
+      "name": "Patrick Nicholas",
+      "bio": "Sergeant-At-Arms Bio",
+      "image": "images/SAA.JPG"
+    },
+    {
+      "name": "Humza Qureshi",
+      "bio": "Secretary Bio",
+      "image": "images/Secretary.JPG"
+    }
+  ]
+}
