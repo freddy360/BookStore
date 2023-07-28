@@ -1,0 +1,69 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+#photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 10px;
+  }
+  
+  #photo-grid img {
+    width: 95%;
+    height: auto;
+    padding: 2%;
+  }
+
+/*************************HEADER AND FOOTER STYLING BELOW - SAME FOR ALL PAGES*************************/
+
+header {
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    background-color: darkslategray;
+}
+
+nav{
+    background-color: darkslategray;
+    padding: 1%;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+.tabs button{
+    font-size: larger;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: inherit;
+    color: white;
+    border: none;
+    display: inline;
+
+}
+
+.tabs button:hover {
+    color: gold;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background: lightslategray;
+    padding-top: 20px;
+    color: azure;
+}
+
+footer a {
+    color: azure;
+}
+
+.f  {
+    border: solid 1px red;
+    width: 100%;
+}

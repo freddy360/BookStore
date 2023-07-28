@@ -1,0 +1,76 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+#form {
+    margin: 100px 25%;
+}
+
+#message {
+    display: table;
+    margin-top: 50px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#content {
+    display: table;
+    margin-top: 40px;
+}
+
+/*************************HEADER AND FOOTER STYLING BELOW - SAME FOR ALL PAGES*************************/
+
+header {
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    background-color: darkslategray;
+}
+
+nav{
+    background-color: darkslategray;
+    padding: 1%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tabs button{
+    font-size: larger;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: inherit;
+    color: white;
+    border: none;
+    display: inline;
+
+}
+
+.tabs button:hover {
+    color: gold;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: lightslategray;
+    padding-top: 20px;
+    color: azure;
+}
+
+footer a {
+    color: azure;
+}
+
+.f  {
+    border: solid 1px red;
+    width: 100%;
+}

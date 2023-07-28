@@ -1,0 +1,107 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#slides img {
+    display: none;
+}
+
+#slide{
+    width: auto;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Slider config*/
+.ui-slider-horizontal {
+    width: 250px;
+    margin-top: 15px;
+}
+
+
+
+#mission {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0% 3%;
+}
+
+#executive {
+    display: inline-flex;
+    width: 100%;
+}
+
+#executive img {
+    width: 200px;
+    height: 300px;
+}
+
+.section {
+    font-weight: bold;
+}
+
+/*************************HEADER AND FOOTER STYLING BELOW - SAME FOR ALL PAGES*************************/
+
+header {
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    background-color: darkslategray;
+}
+
+nav{
+    background-color: darkslategray;
+    padding: 1%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tabs button{
+    font-size: larger;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: inherit;
+    color: white;
+    border: none;
+    display: inline;
+
+}
+
+.tabs button:hover {
+    color: gold;
+}
+
+footer {
+    text-align: center;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    background: lightslategray;
+    padding-top: 20px;
+    color: azure;
+}
+
+footer a {
+    color: azure;
+}
+
+.f  {
+    border: solid 1px red;
+    width: 100%;
+}
